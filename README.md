@@ -1,8 +1,4 @@
-### Hello world 👋Welcome to my page, get anything you want
-
-
-More than a spectator.
-
+### More than a spectator.
 
 🔭 I’m currently working on Java/JavaScript/Server development/Multi-user system
 
