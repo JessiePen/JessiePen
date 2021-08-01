@@ -3,7 +3,7 @@
 🔭 I’m currently working on Java/JavaScript/Server development/Multi-user system
 
 
-🌱 I’m currently a student of XJTLU and University of Liverpool
+🌱 I’m an incoming MSCS student in Boston University. 
 
 
 📫 How to reach me: y.peng1998@gmail.com
